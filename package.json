@@ -1,0 +1,19 @@
+{
+  "name": "scss-gulp-boilerplater",
+  "version": "1.0.0",
+  "description": "GULP and SCSS Config Boilerplate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nat-nat33/SCASS-Gulp-Boilerplate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nat-nat33/SCASS-Gulp-Boilerplate/issues"
+  },
+  "homepage": "https://github.com/nat-nat33/SCASS-Gulp-Boilerplate#readme"
+}
