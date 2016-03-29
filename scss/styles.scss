@@ -1,5 +1,10 @@
-$white: floralwhite;
+$white: #DEC6BA;
+$textColor: #392F52;
 
 body{
   background-color: $white;
+  h1{
+    color: $textColor;
+  }
+
 }
