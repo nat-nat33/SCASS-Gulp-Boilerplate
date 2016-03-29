@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/nat-nat33/SCASS-Gulp-Boilerplate/issues"
   },
-  "homepage": "https://github.com/nat-nat33/SCASS-Gulp-Boilerplate#readme"
+  "homepage": "https://github.com/nat-nat33/SCASS-Gulp-Boilerplate#readme",
+  "devDependencies": {
+    "browser-sync": "^2.11.2",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^2.2.0"
+  }
 }
